@@ -38,7 +38,7 @@ Hi 👋, I am **Patrick Henry Samson**, you may call me **Patrick**~, an enthusi
 
 ## 🔥 Github Stats
 
-<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
+<img align="right" width="38%" src="https://snz04pap002files.storage.live.com/y4mwlFt__5tQBUsWDtaXwlAXS5T_-0HQFF3TVu8EhG7HalHu1E_jqFzFj5UNWqBqHPJ8osZqg0j8N3dVojCeXaWAOsbaHZH01S7ob7R9KC5blh0nqMHXfDbNifZ7rP5e4ec_U-6zpW7cMXGSAwD9hmwWVDlor2ijGesGGDJW3nqHmAfPk2fXtjpVLLUFXySAbn-IW4pdaIsm2usEOFwmg8xaPLdcd7mCuJQ9s0lRmPpBJ4?encodeFailures=1&width=614&height=922"/>
 
   <a href="https://github.com/phsamson"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=phsamson&theme=radical"></a>
   <a href="https://github.com/phsamson"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=phsamson&theme=radical&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"></a>
