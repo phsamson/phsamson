@@ -38,11 +38,11 @@ Hi 👋, I am **Patrick Henry Samson**, you may call me **Patrick**~, an enthusi
 
 ## 🔥 Github Stats
 
-<img align="right" width="38%" src="https://snz04pap002files.storage.live.com/y4mwlFt__5tQBUsWDtaXwlAXS5T_-0HQFF3TVu8EhG7HalHu1E_jqFzFj5UNWqBqHPJ8osZqg0j8N3dVojCeXaWAOsbaHZH01S7ob7R9KC5blh0nqMHXfDbNifZ7rP5e4ec_U-6zpW7cMXGSAwD9hmwWVDlor2ijGesGGDJW3nqHmAfPk2fXtjpVLLUFXySAbn-IW4pdaIsm2usEOFwmg8xaPLdcd7mCuJQ9s0lRmPpBJ4?encodeFailures=1&width=614&height=922"/>
+<img align="right" width="38%" src="https://snz04pap002files.storage.live.com/y4myfRVlk3W7PCJijkikn0d_aVToXan0WuNMNYjCm2NAcO3q44OBc0ixncLV4AHxme5z2Qs2_ZvycdVXionKhJR4qIBe-Y38zhF-zq28q7RYrlOFOjbLgvabVkcAKa7CfEN8s8u2NeTzTXY_3ToF6171ty9PO3oXiFB8UJO7VlR_CeWeXENob3a0F2pQG7dLBPTNCA93eFiocb8KCHd-8B-cHdEmbypgJHm2suMcn-EvlI?encodeFailures=1&width=688&height=1032"/>
 
   <a href="https://github.com/phsamson"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=phsamson&theme=radical"></a>
   <a href="https://github.com/phsamson"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=phsamson&theme=radical&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"></a>
-
+<br /><br /><br /><br /><br /><br /><br />
 ## 📘 My Current Project(s)
 
 <p align="left">
@@ -59,9 +59,6 @@ Hi 👋, I am **Patrick Henry Samson**, you may call me **Patrick**~, an enthusi
   <a href="https://github.com/phsamson">
     <img alt="views" title="GitHub profile views" src="https://kounter.tk/badge/phsamson?label=&color=333&style=for-the-badge&cntSuffix=%20Views"/></a>
 </p>
-
-
-
 
 <!---
 phsamson/phsamson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
