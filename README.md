@@ -1,10 +1,14 @@
 <a href="https://www.linkedin.com/in/patrickhenrysamson/"><img src="https://media.licdn.com/dms/image/D5616AQHCjrORBgiUmg/profile-displaybackgroundimage-shrink_350_1400/0/1665455743650?e=1701907200&v=beta&t=KPymNdjdmk8PXLmXI3lTp-CWATHg0VGZ1v3Pa2zv3wA" width="100%" height="auto"/></a>
+
+**<p align="center">WHERE TO CONTACT ME?</p>**
 <p align="center">
   <a href="https://github.com/phsamson"><img width="32px" alt="Github" title="Github" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/itspaturikku"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/patrickhenrysamson/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto: samsonpatrickhenry@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
