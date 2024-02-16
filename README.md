@@ -48,7 +48,7 @@ Hi 👋, I am **Patrick Henry Samson**, you may call me **Patrick**~, an enthusi
 <div align="center">
   <a href="https://github.com/phsamson"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=phsamson&theme=radical"></a>
   <a href="https://github.com/phsamson"><img width="60%" src="http://github-readme-streak-stats.herokuapp.com?user=phsamson&theme=radical&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"></a>
-<br /><br /><br /><br /><br /><br /><br />
+<br /><br />
 ## 📘 My Current Project(s)
 </div>
 <p align="left">
