@@ -1,9 +1,9 @@
-<a href="https://www.linkedin.com/in/patrickhenrysamson/">
+<div align="center"><a href="https://www.linkedin.com/in/patrickhenrysamson/">
 <img src="https://onedrive.live.com/embed?resid=A32069756616859B%21401&authkey=%21AH_cWOgQuHKnxBM&width=712&height=1068" 
   align="center" 
   width="30%" 
   height="100%"/>
-</a>
+</a></div>
 
 **<p align="center">WHERE TO CONTACT ME?</p>**
 <p align="center">
