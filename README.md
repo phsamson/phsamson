@@ -1,4 +1,9 @@
-<a href="https://www.linkedin.com/in/patrickhenrysamson/"><img src="https://onedrive.live.com/embed?resid=A32069756616859B%21401&authkey=%21AH_cWOgQuHKnxBM&width=712&height=1068" width="100%" height="auto"/></a>
+<a href="https://www.linkedin.com/in/patrickhenrysamson/">
+<img src="https://onedrive.live.com/embed?resid=A32069756616859B%21401&authkey=%21AH_cWOgQuHKnxBM&width=712&height=1068" 
+  align="center" 
+  width="30%" 
+  height="100%"/>
+</a>
 
 **<p align="center">WHERE TO CONTACT ME?</p>**
 <p align="center">
@@ -27,11 +32,8 @@ Hi 👋, I am **Patrick Henry Samson**, you may call me **Patrick**~, an enthusi
 - 🌱 and I am currently learning **Cypress.io**
   
 - 📫 Reach me out at samsonpatrickhenry@gmail.com!
-
 </details>
-  
-</p>
-  
+
 <!--
 <details>
   <summary>📕 Blog Posts</summary>
@@ -41,8 +43,6 @@ Hi 👋, I am **Patrick Henry Samson**, you may call me **Patrick**~, an enthusi
 -->
 
 ## 🔥 Github Stats
-
-<img align="right" width="38%" src="https://snz04pap002files.storage.live.com/y4myfRVlk3W7PCJijkikn0d_aVToXan0WuNMNYjCm2NAcO3q44OBc0ixncLV4AHxme5z2Qs2_ZvycdVXionKhJR4qIBe-Y38zhF-zq28q7RYrlOFOjbLgvabVkcAKa7CfEN8s8u2NeTzTXY_3ToF6171ty9PO3oXiFB8UJO7VlR_CeWeXENob3a0F2pQG7dLBPTNCA93eFiocb8KCHd-8B-cHdEmbypgJHm2suMcn-EvlI?encodeFailures=1&width=688&height=1032"/>
 
   <a href="https://github.com/phsamson"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=phsamson&theme=radical"></a>
   <a href="https://github.com/phsamson"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=phsamson&theme=radical&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"></a>
@@ -60,8 +60,6 @@ Hi 👋, I am **Patrick Henry Samson**, you may call me **Patrick**~, an enthusi
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fphsamson"/></a>
   <a href="https://github.com/phsamson?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/phsamson?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/phsamson">
-    <img alt="views" title="GitHub profile views" src="https://kounter.tk/badge/phsamson?label=&color=333&style=for-the-badge&cntSuffix=%20Views"/></a>
 </p>
 
 <!---
