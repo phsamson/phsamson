@@ -1,9 +1,11 @@
-<div align="center"><a href="https://www.linkedin.com/in/patrickhenrysamson/">
-<img src="https://onedrive.live.com/embed?resid=A32069756616859B%21401&authkey=%21AH_cWOgQuHKnxBM&width=712&height=1068" 
-  align="center" 
-  width="30%" 
-  height="100%"/>
-</a></div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/patrickhenrysamson/">
+  <img src="https://onedrive.live.com/embed?resid=A32069756616859B%21401&authkey=%21AH_cWOgQuHKnxBM&width=712&height=1068" 
+    align="center" 
+    width="30%" 
+    height="100%"/>
+  </a>
+/div>
 
 **<p align="center">WHERE TO CONTACT ME?</p>**
 <p align="center">
@@ -43,12 +45,12 @@ Hi 👋, I am **Patrick Henry Samson**, you may call me **Patrick**~, an enthusi
 -->
 
 ## 🔥 Github Stats
-
-  <a href="https://github.com/phsamson"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=phsamson&theme=radical"></a>
-  <a href="https://github.com/phsamson"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=phsamson&theme=radical&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"></a>
+<div align="center">
+  <a href="https://github.com/phsamson"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=phsamson&theme=radical"></a>
+  <a href="https://github.com/phsamson"><img width="60%" src="http://github-readme-streak-stats.herokuapp.com?user=phsamson&theme=radical&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"></a>
 <br /><br /><br /><br /><br /><br /><br />
 ## 📘 My Current Project(s)
-
+</div>
 <p align="left">
     <a href="https://github.com/phsamson/cypress_practice_uniqlo"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=phsamson&repo=cypress_practice_uniqlo&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
 </p>
