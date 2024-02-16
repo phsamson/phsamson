@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/patrickhenrysamson/"><img src="https://media.licdn.com/dms/image/D5616AQHCjrORBgiUmg/profile-displaybackgroundimage-shrink_350_1400/0/1665455743650?e=1701907200&v=beta&t=KPymNdjdmk8PXLmXI3lTp-CWATHg0VGZ1v3Pa2zv3wA" width="100%" height="auto"/></a>
+<a href="https://www.linkedin.com/in/patrickhenrysamson/"><img src="https://onedrive.live.com/embed?resid=A32069756616859B%21401&authkey=%21AH_cWOgQuHKnxBM&width=712&height=1068" width="100%" height="auto"/></a>
 
 **<p align="center">WHERE TO CONTACT ME?</p>**
 <p align="center">
