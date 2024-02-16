@@ -5,7 +5,7 @@
     width="30%" 
     height="100%"/>
   </a>
-/div>
+</div>
 
 **<p align="center">WHERE TO CONTACT ME?</p>**
 <p align="center">
