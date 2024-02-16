@@ -19,7 +19,7 @@
 
 <br/>
   
-Hi 👋, I am **Patrick Henry Samson**, you may call me **Patrick**~, an enthusiastic and ambitious Software QA Tester at [@EMAPTA](https://www.linkedin.com/company/emaptaglobal/mycompany/). I specialised in Manual - Functional testing and UI testing. I have experience testing applications on Mobile, Ecommerce, Web Applications for iOS, Android, and Desktop platforms. I love to network, join new communities and add value ✨
+Hi 👋, I am **Patrick Henry Samson**, you may call me **Patrick**~, an enthusiastic and ambitious Software QA Tester currently working at [@EMAPTA](https://www.linkedin.com/company/emaptaglobal/mycompany/). I specialised in Manual - Functional testing and UI testing. I have experience testing applications on Mobile, Ecommerce, Web Applications for iOS, Android, and Desktop platforms. I love to network, join new communities and add value ✨
 
 <div>
 <details>
