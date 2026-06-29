@@ -15,13 +15,13 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/patrickhenrysamson/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto: samsonpatrickhenry@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"/></a>
+  <a href="mailto: samsonpatrickhenry@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <br/>
   
-Hi 👋, **Patrick** here, I'm a Software QA Engineer currently working at [@Kinguin]([https://www.linkedin.com/company/emaptaglobal/mycompany/](https://www.linkedin.com/company/kinguinofficial/)). I do manual testing and a bit of automation testing. I have experience testing mobile and web applications. Feel free to reach out to my socials for network or job opportunities ;) 
+Hi 👋, **Patrick** here, I'm a Software QA Engineer currently working at [Kinguin](https://www.linkedin.com/company/kinguinofficial/). I do manual testing and a bit of automation testing. I have experience testing mobile and web applications. Feel free to reach out to my socials for network or job opportunities ;) 
 
 <div>
 <details>
