@@ -21,7 +21,7 @@
 
 <br/>
   
-Hi 👋, I am **Patrick Henry Samson**, you may call me **Patrick**~, an enthusiastic and ambitious Software QA Tester currently working at [@EMAPTA](https://www.linkedin.com/company/emaptaglobal/mycompany/). I specialised in Manual - Functional testing and UI testing. I have experience testing applications on Mobile, Ecommerce, Web Applications for iOS, Android, and Desktop platforms. I love to network, join new communities and add value ✨
+Hi 👋, **Patrick** here, I'm a Software QA Engineer currently working at [@Kinguin]([https://www.linkedin.com/company/emaptaglobal/mycompany/](https://www.linkedin.com/company/kinguinofficial/)). I do manual testing and a bit of automation testing. I have experience testing mobile and web applications. Feel free to reach out to my socials for network or job opportunities ;) 
 
 <div>
 <details>
@@ -31,18 +31,10 @@ Hi 👋, I am **Patrick Henry Samson**, you may call me **Patrick**~, an enthusi
   
 - 👀 I’m currently interested in Automation Testing
   
-- 🌱 and I am currently learning **Cypress.io**
+- 🌱 and I am currently learning **Playwright test framework**
   
-- 📫 Reach me out at samsonpatrickhenry@gmail.com!
+- 📫 Reach me out to my socials
 </details>
-
-<!--
-<details>
-  <summary>📕 Blog Posts</summary>
-  <br />
-</details>
-</div>
--->
 
 ## 🔥 Github Stats
 <div align="center">
