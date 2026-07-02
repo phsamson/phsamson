@@ -44,7 +44,7 @@ Hi 👋, **Patrick** here, I'm a Software QA Engineer currently working at [King
 ## 📘 My Current Project(s)
 </div>
 <p align="left">
-    <a href="https://github.com/phsamson/cypress_practice_uniqlo"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=phsamson&repo=cypress_practice_uniqlo&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/phsamson/cypress_practice_uniqlo"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=phsamson&repo=sinehan_playwright&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
 </p>
 
 <p align="left">
