@@ -7,57 +7,20 @@
   </a>
 </div>
 
-**<p align="center">WHERE TO CONTACT ME?</p>**
-<p align="center">
-  <a href="https://github.com/phsamson"><img width="32px" alt="Github" title="Github" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/itspaturikku"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/patrickhenrysamson/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto: samsonpatrickhenry@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-
 <br/>
   
-Hi 👋, **Patrick** here, I'm a Software QA Engineer currently working at [Kinguin](https://www.linkedin.com/company/kinguinofficial/). I do manual testing and a bit of automation testing. I have experience testing mobile and web applications. Feel free to reach out to my socials for network or job opportunities ;) 
+# 💫 About Me:
+👋 Hi, I’m Patrick<br>👀 I’m currently interested in Automation Testing<br>🌱 and I am currently learning Playwright test framework<br>📫 Reach me out to my socials
 
-<div>
-<details>
-  <summary>🧑 More About Me</summary>
 
-- 👋 Hi, I’m Patrick Henry Samson
-  
-- 👀 I’m currently interested in Automation Testing
-  
-- 🌱 and I am currently learning **Playwright test framework**
-  
-- 📫 Reach me out to my socials
-</details>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/patrickhenrysamson) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samsonpatrickhenry@gmail.com) 
 
-## 🔥 Github Stats
-<div align="center">
-  <a href="https://github.com/phsamson"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=phsamson&theme=radical"></a>
-  <a href="https://github.com/phsamson"><img width="60%" src="http://github-readme-streak-stats.herokuapp.com?user=phsamson&theme=radical&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"></a>
-<br /><br />
-## 📘 My Current Project(s)
-</div>
-<p align="left">
-    <a href="https://github.com/phsamson/sinehan_playwright"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=phsamson&repo=sinehan_playwright&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-</p>
+# 💻 Tech Stack:
+![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=phsamson&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=phsamson&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=phsamson&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="left">
-  <a href="https://github.com/phsamson?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-<p align="right">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fphsamson"/></a>
-  <a href="https://github.com/phsamson?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/phsamson?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
-
-<!---
-phsamson/phsamson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
